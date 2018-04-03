@@ -1,4 +1,4 @@
-build/program//main.o: /home/bso/esp-open-rtos/Vaje/vaja1/main.cpp \
+build/program//main.o: /home/bso/esp-open-rtos/vaje_BSO/vaja1/main.cpp \
  ../../include/espressif/esp_common.h \
  ../../libc/xtensa-lx106-elf/include/stdint.h \
  ../../libc/xtensa-lx106-elf/include/machine/_default_types.h \
